@@ -1,1 +1,2 @@
-dev
+server:
+  port: 8888
